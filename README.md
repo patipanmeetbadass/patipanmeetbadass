@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @patipanmeetbadass
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
-- 📫 How to reach me LinkedIn "Patipa Wannaprasert"
+- 🌱 I'm trying to do something here
 
 <!---
 patipanmeetbadass/patipanmeetbadass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
